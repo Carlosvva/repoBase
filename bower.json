@@ -1,0 +1,30 @@
+{
+  "name": "2stepstudios",
+  "description": "2stepstudios website",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "2step"
+  ],
+  "authors": [
+    "Carlos Vargas"
+  ],
+  "license": "MIT",
+  "homepage": "www.2stepfilms.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.9.1",
+    "angular": "~1.4.8",
+    "angular-material": "~1.0.1",
+    "Ionicons": "ionicons#~2.0.1"
+  }
+}

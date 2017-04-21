@@ -1,0 +1,26 @@
+{
+  "name": "2stepstudios",
+  "version": "0.0.0",
+  "description": "2stepfilms",
+  "main": "node.js",
+  "dependencies": {
+    "grunt": "~0.4.5",
+    "grunt-wiredep": "~2.0.0",
+    "wiredep": "~3.0.0",
+    "bower": "~1.7.2",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-jsvalidate": "^2.1.0",
+    "gulp-minify": "0.0.5",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.1"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^3.0.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlos Vargas",
+  "license": "MIT"
+}
